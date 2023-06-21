@@ -1,0 +1,2 @@
+reciben informacion
+la adaptan y la devuelven
